@@ -1,16 +1,20 @@
-# chat_app
+# Features
+-ignup and signin\
+-dark mode
+-responsive
+-instant messages
 
-A new Flutter project.
+# Tools used
+-Flutter & Dart\
+-Firebase Authentication\
+-Firebase Cloud Firestore\
+-Firebase Storage\
+-Provider State Management\
+-Shared Preferences\
+-intl \
+-image_picker\
 
-## Getting Started
+![login-01](https://user-images.githubusercontent.com/97704843/224677623-ba1ffa49-4119-4ac7-a1ff-1cafb833569b.png)
+![chat_light-01](https://user-images.githubusercontent.com/97704843/224677653-25018bbe-24c8-4279-9f64-43f6dd865327.png)
+![dark-01](https://user-images.githubusercontent.com/97704843/224677674-053eadf1-d471-49fa-82b0-83d0b9db5b47.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
