@@ -1,5 +1,5 @@
 # Features
--ignup and signin\
+-signup and signin\
 -dark mode
 -responsive
 -instant messages
